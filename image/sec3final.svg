@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.30666in" height="1.06666in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3307 1067"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#EEE5D9}
+    .fil1 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+    .fil3 {fill:url(#id2)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1151.87" y1="317.744" x2="2818.54" y2="1108.66">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BFA37C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="2139.8" y1="369.008" x2="2425.75" y2="1032.04">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C4A983"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="888.906" y1="309.343" x2="888.906" y2="25.0118">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C2A680"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+ </defs>
+ <rect class="fil0" width="3307" height="1067"/>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_865410272">
+   <path class="fil1" d="M3347 378c-209,-9 -438,56 -697,66 -217,9 -255,139 -659,109 -266,-20 -446,78 -746,168 -192,58 -906,205 -672,255 235,50 1831,73 1831,73l1040 -36 -97 -635 0 0z"/>
+   <path class="fil2" d="M3351 438c-164,-7 -343,43 -546,51 -171,8 -200,109 -518,86 -208,-16 -349,61 -585,132 -151,45 -711,161 -527,200 184,39 1437,57 1437,57l815 -29 -76 -497z"/>
+   <ellipse class="fil3" cx="889" cy="167" rx="310" ry="142"/>
+  </g>
+ </g>
+</svg>

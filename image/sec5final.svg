@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.30666in" height="1.06666in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3307 1067"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#EEE5D9}
+    .fil1 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+    .fil3 {fill:url(#id2)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="904.118" y1="641.402" x2="2237.69" y2="641.402">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C9B18F"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#E4D8C7"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#E4D8C7"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="1707.87" y1="345.496" x2="2433.63" y2="345.496">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C7AF8D"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#E3D7C6"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#E3D7C6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="2129.73" y1="151.559" x2="2653.56" y2="151.559">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C7AD89"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#E3D6C4"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#E3D6C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient>
+ </defs>
+ <rect class="fil0" width="3307" height="1067"/>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_648117744">
+   <ellipse class="fil1" cx="1571" cy="641" rx="667" ry="310"/>
+   <ellipse class="fil2" cx="2071" cy="345" rx="363" ry="154"/>
+   <ellipse class="fil3" cx="2392" cy="152" rx="262" ry="117"/>
+  </g>
+ </g>
+</svg>
